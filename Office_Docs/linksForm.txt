@@ -1,0 +1,4 @@
+https://samjdev.wordpress.com/2012/04/08/java-registration-form-with-spring-and-hibernate/
+http://www.codejava.net/frameworks/spring/spring-mvc-form-handling-tutorial-and-example
+http://websystique.com/springmvc/spring-4-mvc-form-validation-with-hibernate-jsr-validator-resource-handling-using-annotations/
+https://www.roseindia.net/spring/spring4/login-form-using-spring-mvc-and-hibernate.shtml

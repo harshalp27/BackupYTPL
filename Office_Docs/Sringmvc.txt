@@ -1,0 +1,6 @@
+https://softwarecave.org/2014/03/08/how-to-handle-html-forms-in-spring/
+https://dzone.com/tutorials/java/spring/spring-mvc-tutorial-1.html
+https://www.mkyong.com/maven/how-to-create-a-web-application-project-with-maven/
+https://stackoverflow.com/questions/16598594/how-to-map-requests-to-html-file-in-spring-mvc
+http://jeromejaglale.com/doc/java/spring/mvc
+http://jeromejaglale.com/doc/java/spring/hello_world
