@@ -1,0 +1,7 @@
+https://www.dineshonjava.com/environment-setup-for-spring-framework/
+https://www.google.co.in/search?q=bean+creation+using+bean+factory&rlz=1C1NHXL_enIN769IN769&oq=bean+creation+using+bean+factory&aqs=chrome..69i57.7207j0j4&sourceid=chrome&ie=UTF-8
+http://www.baeldung.com/spring-factorybean
+https://www.dineshonjava.com/what-is-bean-factory-in-spring/
+http://www.mkyong.com/spring3/spring-3-javaconfig-import-example/
+http://www.mkyong.com/spring3/spring-3-javaconfig-import-example/
+https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0ahUKEwid05makIfYAhULrI8KHU48CGwQFgg5MAM&url=http%3A%2F%2Fwww.java2novice.com%2Fspring%2Fdefault-init-destroy%2F&usg=AOvVaw2SXwkm_E27N-6S605SfkRx
